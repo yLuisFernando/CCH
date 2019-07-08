@@ -1,3 +1,4 @@
+//TERMÔMETRO COM LEDs E SENSOR DE TEMPERATURA
 float Temperatura = 0;
 const int TPM = 1;
 const int Buzzer = 2;
